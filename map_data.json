@@ -1,0 +1,29 @@
+[
+    {
+        "id": 1,
+        "name": "Ankara",
+        "x": 100,
+        "y": 100,
+        "width": 50,
+        "height": 50,
+        "owner": "Player"
+    },
+    {
+        "id": 2,
+        "name": "Istanbul",
+        "x": 160,
+        "y": 100,
+        "width": 50,
+        "height": 50,
+        "owner": "AI"
+    },
+    {
+        "id": 3,
+        "name": "Izmir",
+        "x": 100,
+        "y": 160,
+        "width": 50,
+        "height": 50,
+        "owner": "Player"
+    }
+]

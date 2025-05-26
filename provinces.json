@@ -1,0 +1,12 @@
+[
+    {"id": 1, "name": "İstanbul", "x": 120, "y": 400, "width": 30, "height": 30, "owner": "BlueNation"},
+    {"id": 2, "name": "Ankara", "x": 300, "y": 350, "width": 30, "height": 30, "owner": "RedEmpire"},
+    {"id": 3, "name": "İzmir", "x": 130, "y": 300, "width": 30, "height": 30, "owner": "GreenTribe"},
+    {"id": 4, "name": "Bursa", "x": 160, "y": 350, "width": 30, "height": 30, "owner": "YellowState"},
+    {"id": 5, "name": "Antalya", "x": 200, "y": 250, "width": 30, "height": 30, "owner": "PurpleUnion"},
+    {"id": 6, "name": "Trabzon", "x": 450, "y": 420, "width": 30, "height": 30, "owner": "BlueNation"},
+    {"id": 7, "name": "Erzurum", "x": 500, "y": 400, "width": 30, "height": 30, "owner": "RedEmpire"},
+    {"id": 8, "name": "Diyarbakır", "x": 470, "y": 320, "width": 30, "height": 30, "owner": "GreenTribe"},
+    {"id": 9, "name": "Konya", "x": 270, "y": 300, "width": 30, "height": 30, "owner": "YellowState"},
+    {"id": 10, "name": "Samsun", "x": 390, "y": 400, "width": 30, "height": 30, "owner": "PurpleUnion"}
+]
